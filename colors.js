@@ -4,7 +4,7 @@
 
 module.exports = {
   // Text colors
-  primary: '#23272F', // gray-90
+  primary: '#121212', // black
   'primary-dark': '#F6F7F9', // gray-5
   secondary: '#404756', // gray-70
   'secondary-dark': '#EBECF0', // gray-10
